@@ -6,7 +6,7 @@ Usage
 
 ./Splitter.sh
 
-"YOUR PARAGRAPH'
+"YOUR PARAGRAPH"
 
 "YOUR FILENAME"
 
